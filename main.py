@@ -8,3 +8,7 @@ as_int(3)
 # COMMAND ----------
 
 as_int(3)
+
+# COMMAND ----------
+
+as_float(3)
