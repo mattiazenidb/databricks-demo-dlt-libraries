@@ -5,6 +5,10 @@
 def as_int(a):
     return int(a)
 
+# Exported function
+def as_float(a):
+    return float(a)
+
 # Test function for module  
 def _test():
     assert as_int('1') == 1
